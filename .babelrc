@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "transform-react-jsx",
+    "dynamic-import-split-require",
+  ],
+  "presets": [
+    "env"
+  ]
+}
